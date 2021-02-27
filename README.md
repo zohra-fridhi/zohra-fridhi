@@ -23,7 +23,7 @@
 <br>
 
 
-<img align="right" height="320px" alt="GIF" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/desenvolvedor-full-stack-profissional-completo-190510195243-thumbnail-4.jpg?raw=true" />
+<img align="right" height="320px" alt="GIF" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/mean%20stack%20dev.png?raw=true" />
 
 ### I am a Student Engineer at Esprit.
 - 🔭 I’m currently working on MEAN Stack Development:
