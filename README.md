@@ -1,7 +1,5 @@
-### Hi there, I am Zohra FRIDHI 👋
-
 # ![zohra]( https://github.com/zohra-fridhi/zohra-fridhi/blob/main/Partnership.jpg)
-
+### Hi there, I am Zohra FRIDHI 👋
 
 Here are some ideas to get you started:
 
