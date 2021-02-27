@@ -23,14 +23,17 @@
 <br>
 
 
-Here are some ideas to get you started:
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+### I am a Student Engineer at Esprit.
+- 🔭 I’m currently working on MEAN Stack Development:
+- 🌱 I’m currently learning MERN Stack Development.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2021 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+<h3 align="center">Languages and Frameworks</h3>
+<br>
