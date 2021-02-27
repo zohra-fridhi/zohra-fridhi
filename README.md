@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/zohra-fridhi">
-    <img src="https://github-readme-stats.vercel.app/api?username=zahra fridhi&count_private=true&hide_border=true&show_icons=true" alt="zahrafridhi's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=zahra&fridhi&count_private=true&hide_border=true&show_icons=true" alt="zahrafridhi's github stats">
   </a>
 </p>
 <!--
