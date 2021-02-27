@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/zahrafridhii/"><img height="24" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/Facebook-logo.png?raw=true" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/zahra.fridhi/"><img height="24" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/ista.png?raw=true" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/zahra-fridhi-775b2911a/"><img height="24" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/linkedIn_PNG38.png?raw=true" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:fridhi.zahraa@gmail.com?subject=Hello%20Zahra"><img height="24" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/gmm.png?raw=true" alt="Gmail"/></a>&nbsp;
+<a href="mailto:fridhi.zahraa@gmail.com?subject=Hello%20Zahra"><img height="20" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/gmm.png?raw=true" alt="Gmail"/></a>&nbsp;
 </p>
 
 <br>
