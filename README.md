@@ -1,6 +1,6 @@
 ### Hi there, I am Zohra FRIDHI 👋
 
-# https://github.com/zohra-fridhi/zohra-fridhi/blob/main/Partnership.jpg?raw=true
+# ![zohra]( https://github.com/zohra-fridhi/zohra-fridhi/blob/main/Partnership.jpg)
 
 
 Here are some ideas to get you started:
