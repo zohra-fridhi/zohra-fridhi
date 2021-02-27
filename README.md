@@ -14,14 +14,14 @@
 
 <p align="center">
 <br>
-<a href="https://www.facebook.com/zahrafridhii/"><img src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/Facebook-logo.png?raw=truee" alt="Facebook" /></a>&nbsp;
+<a href="https://www.facebook.com/zahrafridhii/"><img height="24" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/Facebook-logo.png?raw=true" alt="Facebook" /></a>&nbsp;
 
-<a href="https://www.instagram.com/zahra.fridhi/"><img src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/Instagram-logo-PNG.png?raw=true" alt="Instagram" /></a>&nbsp;
+<a href="https://www.instagram.com/zahra.fridhi/"><img height="24" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/Instagram-logo-PNG.png?raw=true" alt="Instagram" /></a>&nbsp;
 
-<a href="https://www.linkedin.com/in/zahra-fridhi-775b2911a/"><img src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/link.png?raw=true" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/zahra-fridhi-775b2911a/"><img height="24" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/link.png?raw=true" alt="LinkedIn" /></a>&nbsp;
 
-<a href="mailto:fridhi.zahraa@gmail.com?subject=Hola%20Sumanth"><img src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/142785-middle.png?raw=true" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+<a href="mailto:fridhi.zahraa@gmail.com?subject=Hello%20Zahra"><img height="24" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/142785-middle.png?raw=true" alt="Gmail"/></a>&nbsp;
+
 </p>
 
 <br>
