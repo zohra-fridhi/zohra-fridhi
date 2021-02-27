@@ -1,6 +1,6 @@
 ### Hi there, I am Zohra FRIDHI 👋
 
-#Partnership.jpg
+# https://github.com/zohra-fridhi/zohra-fridhi/blob/main/Partnership.jpg?raw=true
 
 
 Here are some ideas to get you started:
