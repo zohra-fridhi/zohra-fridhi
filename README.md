@@ -1,6 +1,6 @@
 ### Hi there, I am Zohra FRIDHI 👋
 
-
+#Partnership.jpg
 
 
 Here are some ideas to get you started:
