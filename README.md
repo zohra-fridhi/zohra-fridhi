@@ -1,7 +1,7 @@
 # ![zohra]( https://github.com/zohra-fridhi/zohra-fridhi/blob/main/Partnership.jpg)
 
 <p>
-  <h1 align="center"><b> Hi there, I am Zohra FRIDHI 👋</b></h1>
+  <h1 align="center"><b> Hi there, I am Zahra FRIDHI 👋</b></h1>
 </p>
 
 <p>
@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/zohra-fridhi">
-    <img src="https://github-readme-stats.vercel.app/api?username=zohra-fridhi&count_private=true&hide_border=true&show_icons=true" alt="zohrafridhi's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=zahra fridhi&count_private=true&hide_border=true&show_icons=true" alt="zahrafridhi's github stats">
   </a>
 </p>
 <!--
