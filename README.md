@@ -51,8 +51,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=zohra-fridhi&count_private=true&hide_border=true&show_icons=true" alt="zohrafridhi's github stats">
   </a>
 </p>
+<!--
 <p align="center">
   <a href="https://github.com/zohra-fridhi">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohra-fridhi&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="zohra-fridhi's github stats">
   </a>
 </p>
+-->
