@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" height="320px" alt="GIF" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/815b0f81.jpg?raw=true"/>
+<img align="right" width="300" height="300" alt="GIF" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/815b0f81.jpg?raw=true" style="border-radius: 50%"/>
 
 ### I am a Student Engineer at Esprit.
 - 🔭 I’m currently working on FULL Stack Development:
