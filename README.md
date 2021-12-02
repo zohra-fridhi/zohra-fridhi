@@ -22,18 +22,21 @@
 
 <br>
 
-<img align="right" width="300" height="300" alt="GIF" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/815b0f81.jpg?raw=true" style="border-radius: 50%"/>
+<img align="right" width="300" height="250" alt="GIF" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/815b0f81.jpg?raw=true" style="border-radius: 50%"/>
 
 ### I am a Student Engineer at Esprit.
+<p align="left">
 - 🔭 I’m currently working on FULL Stack Development:
+  <br>
 - 🌱 I’m currently learning FULL Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
+  <br>
+- 👯 I’m looking to collaborate with other Developers :wink: <br>
+- 💬 Ask me about anything, I am happy to help :smile: <br>
+- 📬 How to reach me: [Let's get in touch!][LinkedIn] <br>
+- 🧗 I try to: Go beyond and push the bounds <br>
+- ⚡ Fun fact: I love connecting with different people :raised_hands: <br>
 <!--- 🥅 2022 Goals: Contribute to Open Source projects-->
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][LinkedIn]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
-
+</p>
 <h3 align="center">Languages and Frameworks</h3>
 <br>
 <p align="center">
