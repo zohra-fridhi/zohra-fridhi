@@ -37,6 +37,7 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands: <br>
 <!--- 🥅 2022 Goals: Contribute to Open Source projects-->
 </p>
+<br>
 <h3 align="center">Languages and Frameworks</h3>
 <br>
 <p align="center">
