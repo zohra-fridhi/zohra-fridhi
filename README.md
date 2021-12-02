@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" height="320px" alt="GIF" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/mean%20stack%20dev.png?raw=true" />
+<img align="right" height="320px" alt="GIF" src="https://github.com/zohra-fridhi/zohra-fridhi/blob/main/815b0f81.jpg?raw=true"/>
 
 ### I am a Student Engineer at Esprit.
 - 🔭 I’m currently working on FULL Stack Development:
@@ -45,6 +45,7 @@
   <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/sonarqube.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubunto" width="40" height="40"/> 
  </p>
